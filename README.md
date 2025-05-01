@@ -35,7 +35,7 @@ This is an individual assessment. All work must be your own.
 <details>
 <summary>Click to view</summary>
 
-- You can check the **Design Files** for different devices <a href="https://www.figma.com/design/ARF2Yw0suZ3FbJftMHbZvI/Book-Hub---Padma?node-id=0-1&t=uf04H2cLT8DocfWj-1" target="_blank">here</a>.
+- You can check the **Design Files** for different devices <a href="https://www.figma.com/design/ARF2Yw0suZ3FbJftMHbZvI/Book-Hub---Padma?node-id=0-1&t=lEbzX8LuA2yUqqPd-1" target="_blank">here</a>.
 
 </details
 
